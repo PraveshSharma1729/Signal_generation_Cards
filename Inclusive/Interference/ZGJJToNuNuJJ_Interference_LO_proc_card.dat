@@ -38,4 +38,4 @@ define j = j b b~
 define lep+ = e+ mu+ ta+
 define lep- = e- mu- ta-
 generate p p > vl vl~ a j j QCD^2==2
-output ZAJJToNuNuJJ_Interference_LO  -nojpeg
+output ZGJJToNuNuJJ_Interference_LO  -nojpeg
